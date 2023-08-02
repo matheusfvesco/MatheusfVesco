@@ -1,7 +1,12 @@
 <p align="center">
 <a href="https://github.com/matheusfvesco">
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&duration=1200&pause=1000&color=FFFFFF&center=true&multiline=true&width=500&height=90&lines=Matheus+Farinaro+Vesco;Computer+Vision+researcher+at+%40CSBL;Computer+Vision+%7C+Python+%7C+Deep+Learning" alt="Typing SVG" />
+</a>
+<!---
+<a href="https://github.com/matheusfvesco">
   <img src="https://readme-typing-svg.demolab.com?font=Heebo&duration=1500&pause=1500&color=FFFFFF&center=true&multiline=true&width=435&height=85&lines=Matheus+Farinaro+Vesco;Rad+Tech+student+at+%40unifesp;Data+Science+%7C+Python+%7C+Machine+Learning" alt="Typing SVG" />
 </a>
+--->
 
 ---
 
@@ -25,11 +30,17 @@
   <a href="https://github.com/matheusfvesco">
         <img alt="Python URL" src="https://img.shields.io/badge/Python-%232d2d2d?labelColor=2d2d2d&style=flat-square&logo=python&logoColor=%233777ab" height="27">
   </a>
-  <a href="https://github.com/matheusfvesco">
-        <img alt="Scikit Learn URL" src="https://img.shields.io/badge/scikit%20learn-%232d2d2d?labelColor=2d2d2d&style=flat-square&logo=scikitlearn&logoColor=%23ffffff" height="27">
+  <a href="https://pytorch.org/">
+        <img alt="Pytorch URL" src="https://img.shields.io/badge/Pytorch-%232d2d2d?labelColor=2d2d2d&style=flat-square&logo=pytorch&logoColor=%23ee4c2c" height="27">
   </a>
   <a href="https://github.com/matheusfvesco">
         <img alt="Tensorflow URL" src="https://img.shields.io/badge/Tensorflow-%232d2d2d?labelColor=2d2d2d&style=flat-square&logo=tensorflow&logoColor=%23FFA800" height="27">
+  </a>
+  <a href="https://github.com/matheusfvesco">
+        <img alt="Scikit Learn URL" src="https://img.shields.io/badge/scikit%20learn-%232d2d2d?labelColor=2d2d2d&style=flat-square&logo=scikitlearn&logoColor=%23ffffff" height="27">
+  </a>
+  <a href="https://opencv.org/">
+        <img alt="Opencv URL" src="https://img.shields.io/badge/OpenCV-%232d2d2d?labelColor=2d2d2d&style=flat-square&logo=opencv&logoColor=%23ffffff" height="27">
   </a>
   <a href="https://github.com/matheusfvesco">
         <img alt="Django URL" src="https://img.shields.io/badge/Django-%23103e2e?labelColor=103e2e&style=flat-square&logo=django&logoColor=%23ffffff" height="27">
@@ -68,10 +79,25 @@
   <h4>About me:</h4>
 </div>
 
-- 👋 Hi, I’m Matheus, A.K.A. [@matheusfvesco](https://www.github.com/matheusfvesco)! I Am a 21 year old Rad Tech with interest in technology, i program in Python since 2019.
-- 👀 I’m interested in Data Science, Computer Graphics, Machine Learning, Deep Learning, Computer Vision, 3D Printing and Radiology
-- 🌱 I’m currently learning Python for Deep Learning and Computer Vision tasks, also some Django for hosting these applications online.
-- 📫 You can reach me through my [LinkedIn](https://www.linkedin.com/in/matheusfvesco/). you can also access my [Kaggle Profile](https://www.kaggle.com/matheusfvesco)!
+- 👋 Hi, I’m Matheus, A.K.A. [@matheusfvesco](https://www.github.com/matheusfvesco)! I am a 22-year-old Rad Tech with a passion for technology. I have been programming in Python since 2019 and am currently a researcher at the [Computational Systems Biology Laboratory](https://www.csbiology.org/), where I develop computer vision pipelines.
+- 👀 I’m interested in Computer Vision, Computer Graphics, Machine Learning, Deep Learning, 3D Printing, Data Science and Radiology
+- 🌱 I am currently learning Python for Computer Vision and generative AI, with a focus on the Radiology field.
+- 📫 You can reach me through my [LinkedIn](https://www.linkedin.com/in/matheusfvesco/) or check out my [Kaggle Profile](https://www.kaggle.com/matheusfvesco) to see some of my work!
+
+---
+
+<div>
+  <h4>CVs and IDs:</h4>
+  <a href="https://orcid.org/0000-0002-4107-1281">
+        <img alt="Orcid URL" src="https://img.shields.io/badge/Orcid-%232d2d2d?labelColor=2d2d2d&style=flat-square&logo=orcid&logoColor=%23A6CE39" height="27">
+  </a>
+  <a href="https://www.researchgate.net/profile/Matheus-Farinaro-Vesco">
+        <img alt="Researchgate URL" src="https://img.shields.io/badge/ResearchGate-%232d2d2d?labelColor=2d2d2d&style=flat-square&logo=researchgate&logoColor=%2300CCBB" height="27">
+  </a>
+  
+
+</div>
+
 <!---
 MatheusfVesco/MatheusfVesco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
