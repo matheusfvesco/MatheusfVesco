@@ -79,8 +79,8 @@
   <h4>About me:</h4>
 </div>
 
-- 👋 Hi, I’m Matheus, A.K.A. [@matheusfvesco](https://www.github.com/matheusfvesco)! I am a 22-year-old Rad Tech with a passion for technology. I have been programming in Python since 2019 and am currently a researcher at the [Computational Systems Biology Laboratory](https://www.csbiology.org/), where I develop computer vision pipelines.
-- 👀 I’m interested in Computer Vision, Computer Graphics, Machine Learning, Deep Learning, 3D Printing, Data Science and Radiology
+- 👋 Hi, I’m Matheus, A.K.A. [@matheusfvesco](https://www.github.com/matheusfvesco)! I am a masters of science student with a passion for technology. I have been programming in Python since 2019 and am currently a researcher at the [Computational Systems Biology Laboratory](https://www.csbiology.org/), where I develop computer vision pipelines and generative AI applications.
+- 👀 I’m interested in Generative AI, AI for Social Good, Computer Vision, Computer Graphics, Machine Learning, Deep Learning, 3D Printing, Data Science and Radiology
 - 🌱 I am currently learning Python for Computer Vision and generative AI, with a focus on the Radiology field.
 - 📫 You can reach me through my [LinkedIn](https://www.linkedin.com/in/matheusfvesco/) or check out my [Kaggle Profile](https://www.kaggle.com/matheusfvesco) to see some of my work!
 
