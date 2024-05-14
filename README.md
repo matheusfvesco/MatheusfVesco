@@ -82,7 +82,7 @@
 </div>
 
 - 👋 Hi, I’m Matheus, A.K.A. [@matheusfvesco](https://www.github.com/matheusfvesco)! I am a masters of science student with a passion for technology. I have been programming in Python since 2019 and I am currently a researcher at the [Computational Systems Biology Laboratory](https://www.csbiology.org/), where I develop computer vision pipelines and generative AI applications.
-- 👀 I’m interested in Generative AI, AI for Social Good, Computer Vision, Computer Graphics, Machine Learning, Deep Learning, 3D Printing, Data Science and Health Sciences
+- 👀 I’m interested in Generative AI, AI for Social Good, Computer Vision, Computer Graphics, Machine Learning, Deep Learning, Data Science, Health Sciences and 3D Printing. Mostly, i really love to test out new models, new technology!
 - 🌱 I am currently learning Python for Computer Vision and generative AI, with a focus on the Radiology field.
 - 📫 You can reach me through my [LinkedIn](https://www.linkedin.com/in/matheusfvesco/) or check out my [Kaggle Profile](https://www.kaggle.com/matheusfvesco) to see some of my work!
 
@@ -96,15 +96,4 @@
   <a href="https://www.researchgate.net/profile/Matheus-Farinaro-Vesco">
         <img alt="Researchgate URL" src="https://img.shields.io/badge/ResearchGate-%232d2d2d?labelColor=2d2d2d&style=flat-square&logo=researchgate&logoColor=%2300CCBB" height="27">
   </a>
-  
-
 </div>
-
----
-
-#### Holopin badges
-[![An image of @matheusfvesco's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/matheusfvesco)](https://holopin.io/@matheusfvesco)
-<!---
-MatheusfVesco/MatheusfVesco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
