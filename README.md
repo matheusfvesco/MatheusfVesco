@@ -1,11 +1,11 @@
 <p align="center">
 <a href="https://github.com/matheusfvesco">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&duration=1200&pause=1000&color=FFFFFF&center=true&multiline=true&width=500&height=90&lines=Matheus+Farinaro+Vesco;Computer+Vision+researcher+at+%40CSBL;Computer+Vision+%7C+Python+%7C+Deep+Learning" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&duration=1000&pause=1000&color=0A66C2&center=true&multiline=true&width=500&height=91&lines=Matheus+F+Vesco;AI+Researcher+%40+FICSAE;Computer+Vision+%7C+GenAI+%7C+Deep+Learning" alt="Typing SVG" />
 </a>
 <!---
-<a href="https://github.com/matheusfvesco">
+[[<a href="https://github.com/matheusfvesco">
   <img src="https://readme-typing-svg.demolab.com?font=Heebo&duration=1500&pause=1500&color=FFFFFF&center=true&multiline=true&width=435&height=85&lines=Matheus+Farinaro+Vesco;Rad+Tech+student+at+%40unifesp;Data+Science+%7C+Python+%7C+Machine+Learning" alt="Typing SVG" />
-</a>
+</a>](https://readme-typing-svg.demolab.com/demo/?font=Roboto+Mono&duration=1000&color=0285B9&center=true&multiline=true&width=500&height=91&lines=Matheus+F+Vesco;AI+Researcher+%40+FICSAE;Computer+Vision+%7C+GenAI+%7C+Deep+Learning)](https://readme-typing-svg.demolab.com/demo/?font=Roboto+Mono&duration=1000&color=0A66C2&center=true&multiline=true&width=500&height=91&lines=Matheus+F+Vesco;AI+Researcher+%40+FICSAE;Computer+Vision+%7C+GenAI+%7C+Deep+Learning)
 --->
 
 ---
@@ -17,9 +17,6 @@
   </a>
   <a href="https://www.kaggle.com/matheusfvesco">
         <img alt="Kaggle URL" src="https://img.shields.io/badge/Kaggle-%232d2d2d?labelColor=2d2d2d&style=flat-square&logo=kaggle&logoColor=%232bbdfa" height="27">
-  </a>
-  <a href="https://twitter.com/intent/follow?screen_name=matheusfvesco">
-        <img alt="Twitter URL" src="https://img.shields.io/badge/Twitter-%231d9bf0?labelColor=1d9bf0&style=flat-square&logo=twitter&logoColor=%23ffffff" height="27">
   </a>
 </div>
 
@@ -44,9 +41,11 @@
   <a href="https://opencv.org/">
         <img alt="Opencv URL" src="https://img.shields.io/badge/OpenCV-%232d2d2d?labelColor=2d2d2d&style=flat-square&logo=opencv&logoColor=%23ffffff" height="27">
   </a>
+  <!---
   <a href="https://www.djangoproject.com/">
         <img alt="Django URL" src="https://img.shields.io/badge/Django-%23103e2e?labelColor=103e2e&style=flat-square&logo=django&logoColor=%23ffffff" height="27">
   </a>
+  --->
   <a href="https://fastapi.tiangolo.com/">
         <img alt="Fastapi URL" src="https://img.shields.io/badge/FastAPI-%23019587?labelColor=019587&style=flat-square&logo=fastapi&logoColor=%23ffffff" height="27">
   </a>
@@ -69,7 +68,7 @@
         <img alt="Postgresql URL" src="https://img.shields.io/badge/PostgreSQL-%23336791?labelColor=336791&style=flat-square&logo=postgresql&logoColor=%23ffffff" height="27">
   </a>
   --->
-  <a href="https://github.com/matheusfvesco">
+  <a href="https://www.arduino.cc/">
         <img alt="Arduino URL" src="https://img.shields.io/badge/Arduino-%2300979d?labelColor=00979d&style=flat-square&logo=arduino&logoColor=%23ffffff" height="27">
   </a>
 
@@ -81,9 +80,8 @@
   <h4>About me:</h4>
 </div>
 
-- 👋 Hi, I’m Matheus, A.K.A. [@matheusfvesco](https://www.github.com/matheusfvesco)! I am a masters of science student with a passion for technology. I have been programming in Python since 2019 and I am currently a researcher at the [Computational Systems Biology Laboratory](https://www.csbiology.org/), where I develop computer vision pipelines and generative AI applications.
-- 👀 I’m interested in Generative AI, AI for Social Good, Computer Vision, Computer Graphics, Machine Learning, Deep Learning, Data Science, Health Sciences and 3D Printing. Mostly, i really love to test out new models, new technology!
-- 🌱 I am currently learning Python for Computer Vision and generative AI, with a focus on the Radiology field.
+- 👋 Hi, I’m Matheus, A.K.A. [@matheusfvesco](https://www.github.com/matheusfvesco)! I am a Master of Science student with a passion for technology. I have been programming in Python since 2019 and I am currently a researcher at the [Computational Systems Biology Laboratory](https://www.csbiology.org/), where I develop computer vision pipelines and generative AI applications.
+- 👀 I’m interested in Generative AI, AI for Social Good, Computer Vision, Computer Graphics, Machine Learning, Deep Learning and Data Science. Mostly, i really love to test out new models and new technology!
 - 📫 You can reach me through my [LinkedIn](https://www.linkedin.com/in/matheusfvesco/) or check out my [Kaggle Profile](https://www.kaggle.com/matheusfvesco) to see some of my work!
 
 ---
